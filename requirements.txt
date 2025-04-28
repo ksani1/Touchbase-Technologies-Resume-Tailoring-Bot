@@ -1,0 +1,10 @@
+streamlit
+openai
+fpdf
+pyresparser
+nltk
+spacy
+pdfminer.six
+numpy
+scikit-learn
+beautifulsoup4
